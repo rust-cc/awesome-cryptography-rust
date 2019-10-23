@@ -1,16 +1,16 @@
 # Awesome Cryptography Rust
 *Collect libraries and packages about cryptography in Rust.*
 
-- [Collection Library](#Collection library)
-- [Symmetric](#Symmetric cryptography)
-- [Public-key / Asymmetric](#Public-key Cryptography / Asymmetric Cryptography)
-- [One-way Hash Function](#One-way Hash Function)
-- [Message Authentication Code (MAC)](#Message Authentication Code)
-- [Digital Signature](#Digital Signature)
-- [Rseudo Random Number Generator (PRNG)](#Rseudo Random Number Generator)
-- [Zero-Knowledge Proofs (ZKP)](#Zero-Knowledge Proofs)
-- [Homomorphic Encryption (HE)](#Homomorphic Encryption)
-- [Secure Multi-party Computation (MPC)](#Secure Multi-party Computation)
+- [Collection Library](#collection-library)
+- [Symmetric](#symmetric-cryptography)
+- [Public-key / Asymmetric](#asymmetric-cryptography)
+- [One-way Hash Function](#hash-function)
+- [Message Authentication Code (MAC)](#message-authentication-code)
+- [Digital Signature](#digital-signature)
+- [Rseudo Random Number Generator (PRNG)](#rseudo-random-number-generator)
+- [Zero-Knowledge Proofs (ZKP)](#zero-Knowledge-proofs)
+- [Homomorphic Encryption (HE)](#Homomorphic-encryption)
+- [Secure Multi-party Computation (MPC)](#secure-multi-party-computation)
 - [Theorem]()
 - [Math]()
 
@@ -26,14 +26,14 @@
 - [block-ciphers](https://github.com/RustCrypto/block-ciphers) Collection of block cipher algorithms written in pure Rust. (AES, Blowfish, DES + 3DES, Kuznyechik, Magma, RC2, Twofish).
 - [stream-ciphers](https://github.com/RustCrypto/stream-ciphers) Collection of stream cipher algorithms.
 
-#### Public-key Cryptography / Asymmetric Cryptography
+#### Asymmetric Cryptography
 ###### RSA
 - [RSA](https://github.com/RustCrypto/RSA) RSA implementation in pure Rust. (PKCS1v1.5: Encryption & Decryption, Sign & Verify)
 
 ###### DH
 - [x25519-dalek](https://github.com/dalek-cryptography/x25519-dalek) Fast and efficient ed25519 signing and verification in Rust. (dalek)
 
-#### One-way Hash Function
+#### Hash Function
 - [hashes](https://github.com/RustCrypto/hashes) Collection of cryptographic hash functions written in pure Rust. (sha1, sha2, sha3, md4, md5, BLAKE2, RIPEMD-160, RIPEMD-320, GOST94, Grøstl, Streebog, Whirlpool)
 - [tiny-keccak](https://github.com/debris/tiny-keccak) A tiny implementation of SHA-3, SHAKE, Keccak, and sha3sum in rust.
 - [poseidon252](https://github.com/dusk-network/poseidon252) Starkad and Poseidon: New Hash Functions for Zero Knowledge Proof Systems.
@@ -61,7 +61,7 @@
 #### Rseudo Random Number Generator
 - [rand](https://github.com/rust-random/rand) A Rust library for random number generation.
 
-#### Zero-Knowledge Proofs
+#### Zero Knowledge Proofs
 - [bulletproofs](https://github.com/dalek-cryptography/bulletproofs) A pure-Rust implementation of Bulletproofs using Ristretto.
 - [bellman](https://github.com/zkcrypto/bellman) zk-SNARK library. (zcash - librustzcash).
 - [bulletproofs](https://github.com/KZen-networks/bulletproofs) Bulletproof Rust implementation for Aggregated Range Proofs over multiple elliptic curves.
