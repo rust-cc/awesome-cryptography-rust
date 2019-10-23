@@ -1,5 +1,18 @@
 # Awesome Cryptography Rust
-*Collect libraries and packages about cryptography in Rust.
+*Collect libraries and packages about cryptography in Rust.*
+
+- [Collection Library](#Collection library)
+- [Symmetric](#Symmetric cryptography)
+- [Public-key / Asymmetric](#Public-key Cryptography / Asymmetric Cryptography)
+- [One-way Hash Function](#One-way Hash Function)
+- [Message Authentication Code (MAC)](#Message Authentication Code)
+- [Digital Signature](#Digital Signature)
+- [Rseudo Random Number Generator (PRNG)](#Rseudo Random Number Generator)
+- [Zero-Knowledge Proofs (ZKP)](#Zero-Knowledge Proofs)
+- [Homomorphic Encryption (HE)](#Homomorphic Encryption)
+- [Secure Multi-party Computation (MPC)](#Secure Multi-party Computation)
+- [Theorem]()
+- [Math]()
 
 ## Cryptography
 #### Collection library
@@ -25,7 +38,7 @@
 - [tiny-keccak](https://github.com/debris/tiny-keccak) A tiny implementation of SHA-3, SHAKE, Keccak, and sha3sum in rust.
 - [poseidon252](https://github.com/dusk-network/poseidon252) Starkad and Poseidon: New Hash Functions for Zero Knowledge Proof Systems.
 
-#### Message Authentication Code (MAC)
+#### Message Authentication Code
 - [MACs](https://github.com/RustCrypto/MACs) Message authentication code algorithms written in pure Rust. (CMAC, DAA, HMAC, PMAC)
 
 #### Digital Signature
@@ -45,7 +58,7 @@
 - [threshold_crypto](https://github.com/poanetwork/threshold_crypto) A pairing-based threshold cryptosystem for collaborative decryption and signatures.
 
 
-#### Rseudo Random Number Generator (PRNG)
+#### Rseudo Random Number Generator
 - [rand](https://github.com/rust-random/rand) A Rust library for random number generation.
 
 #### Zero-Knowledge Proofs
@@ -58,6 +71,8 @@
 - [Dusk-Zerocaf](https://github.com/dusk-network/dusk-zerocaf) Fast, efficient and bulletproof-friendly cryptographic operations.
 
 #### Homomorphic Encryption
+
+#### Secure Multi-party Computation
 
 #### Others
 - [nalgebra](https://github.com/rustsim/nalgebra) Linear algebra library for Rust.
