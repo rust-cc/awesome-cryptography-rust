@@ -48,6 +48,7 @@
 - [signatures](https://github.com/RustCrypto/signatures) Cryptographic signature algorithms (e.g. ECDSA, Ed25519).
 - [bls](https://github.com/w3f/bls) Aggregatable BLS sigantures. (w3f)
 - [milagro_bls](https://github.com/sigp/milagro_bls) BLS12-381 cryptography using Apache Milagro.
+- [nisty](https://github.com/nickray/nisty) NIST P-256 signatures for Cortex-M4 microcontrollers.
 
 ###### Threshold Signature & Multi Party Signatures
 - [multi-party-ecdsa](https://github.com/KZen-networks/multi-party-ecdsa) Rust implementation of {t,n}-threshold ECDSA (elliptic curve digital signature algorithm).
@@ -78,6 +79,10 @@
 
 ### Theorem
 #### Math
+- [nalgebra](https://github.com/rustsim/nalgebra) Linear algebra library for Rust.
+- [num](https://github.com/rust-num/num) A collection of numeric types and traits for Rust. (Bigint)
+- [rust-decimal](https://github.com/paupino/rust-decimal) A Decimal Implementation written in pure Rust suitable for financial calculations.
+
 #### Elliptic Curve
 - [curve25519-dalek](https://github.com/dalek-cryptography/curve25519-dalek) Group operations on Ristretto and Curve25519. (Dalek)
 - [rust-secp256k1](https://github.com/rust-bitcoin/rust-secp256k1) Rust language bindings for Bitcoin secp256k1 library. (rust-bitcoin)
@@ -86,7 +91,6 @@
 - [BLS12-381](https://github.com/zkcrypto/bls12_381) Implementation of the BLS12-381 pairing-friendly elliptic curve group.
 
 #### Others
-- [nalgebra](https://github.com/rustsim/nalgebra) Linear algebra library for Rust.
 - [librustzcash](https://github.com/zcash/librustzcash) Rust-language assets for Zcash. (bellman-zk-SNARK, pairing-elliptic curves)
 - [zexe](https://github.com/scipr-lab/zexe) Rust library for decentralized private computation.
 - [RustySecrets](https://github.com/SpinResearch/RustySecrets) A Rust implementation of threshold Shamir's secret sharing.
