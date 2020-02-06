@@ -24,6 +24,7 @@
 - [sodiumoxide](https://github.com/sodiumoxide/sodiumoxide) Sodium Oxide: Fast cryptographic library for Rust (bindings to libsodium).
 
 ### Symmetric cryptography
+- [aeads](https://github.com/RustCrypto/AEADs): Collection of Authenticated Encryption with Associated Data algorithms written in pure Rust.
 - [block-ciphers](https://github.com/RustCrypto/block-ciphers) Collection of block cipher algorithms written in pure Rust. (AES, Blowfish, DES + 3DES, Kuznyechik, Magma, RC2, Twofish).
 - [stream-ciphers](https://github.com/RustCrypto/stream-ciphers) Collection of stream cipher algorithms.
 
