@@ -80,6 +80,7 @@
 
 ### Theorem
 #### Math
+- [fiat-crypto](https://github.com/mit-plv/fiat-crypto) Formally verified arithmetic implementations for several elliptic curves and word sizes, extracted to Rust from specifications written using in the Coq theorem prover.
 - [nalgebra](https://github.com/rustsim/nalgebra) Linear algebra library for Rust.
 - [num](https://github.com/rust-num/num) A collection of numeric types and traits for Rust. (Bigint)
 - [rust-decimal](https://github.com/paupino/rust-decimal) A Decimal Implementation written in pure Rust suitable for financial calculations.
