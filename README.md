@@ -18,10 +18,12 @@
 ## Cryptography
 ### Collection library
 - [mesalink](https://github.com/mesalock-linux/mesalink) MesaLink is a memory safe and OpenSSL-compatible TLS library.
+- [rage](https://github.com/str4d/rage) age implementation. A simple, secure and modern encryption tool with small explicit keys, no config options, and UNIX-style composability.
 - [ring](https://github.com/briansmith/ring) Safe, fast, small crypto using Rust. (curve25519, aes-gcm, sha-256, sha-384, sha-512, hmac, hkdf, pbkdf2, p-256, p-384, x25519, chacha20-poly1305, ed25519).
 - [rust-crypto](https://github.com/DaGenix/rust-crypto) A (mostly) pure-Rust implementation of various cryptographic algorithms.
 - [rustls](https://github.com/ctz/rustls) A modern TLS library in Rust.
 - [sodiumoxide](https://github.com/sodiumoxide/sodiumoxide) Sodium Oxide: Fast cryptographic library for Rust (bindings to libsodium).
+
 
 ### Symmetric cryptography
 - [aeads](https://github.com/RustCrypto/AEADs): Collection of Authenticated Encryption with Associated Data algorithms written in pure Rust.
