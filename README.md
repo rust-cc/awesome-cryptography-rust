@@ -23,6 +23,7 @@
 - [rust-crypto](https://github.com/DaGenix/rust-crypto) A (mostly) pure-Rust implementation of various cryptographic algorithms.
 - [rustls](https://github.com/ctz/rustls) A modern TLS library in Rust.
 - [sodiumoxide](https://github.com/sodiumoxide/sodiumoxide) Sodium Oxide: Fast cryptographic library for Rust (bindings to libsodium).
+- [orion](https://github.com/brycx/orion) Usable, easy and safe pure-Rust crypto.
 
 
 ### Symmetric cryptography
