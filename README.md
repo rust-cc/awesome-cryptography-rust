@@ -47,10 +47,11 @@
 - [MACs](https://github.com/RustCrypto/MACs) Message authentication code algorithms written in pure Rust. (CMAC, DAA, HMAC, PMAC)
 
 ### Digital Signature
-###### ECDSA
+###### Digital Signature Scheme
 - [ed25519-dalek](https://github.com/dalek-cryptography/ed25519-dalek) Fast and efficient ed25519 signing and verification in Rust. (dalek)
 - [signatures](https://github.com/RustCrypto/signatures) Cryptographic signature algorithms (e.g. ECDSA, Ed25519).
 - [bls](https://github.com/w3f/bls) Aggregatable BLS sigantures. (w3f)
+- [bls-signatures](https://github.com/filecoin-project/bls-signatures) BLS Signatures in Rust.
 - [milagro_bls](https://github.com/sigp/milagro_bls) BLS12-381 cryptography using Apache Milagro.
 - [nisty](https://github.com/nickray/nisty) NIST P-256 signatures for Cortex-M4 microcontrollers.
 
@@ -65,9 +66,11 @@
 - [rand](https://github.com/rust-random/rand) A Rust library for random number generation.
 
 ### Zero Knowledge Proofs
-- [bulletproofs](https://github.com/dalek-cryptography/bulletproofs) A pure-Rust implementation of Bulletproofs using Ristretto.
 - [bellman](https://github.com/zkcrypto/bellman) zk-SNARK library. (zcash - librustzcash).
-- [bulletproofs](https://github.com/KZen-networks/bulletproofs) Bulletproof Rust implementation for Aggregated Range Proofs over multiple elliptic curves.
+- [bellman (matter-labs)](https://github.com/matter-labs/bellman) Bellman zkSNARK library for community with Ethereum's BN256 support.
+- [bellman (filecoin-project)](https://github.com/filecoin-project/bellman) GPU parallel acceleration to the FFT and Multiexponentation algorithms in the groth16 prover.
+- [bulletproofs (Dalek](https://github.com/dalek-cryptography/bulletproofs) A pure-Rust implementation of Bulletproofs using Ristretto.
+- [bulletproofs (KZen-networks](https://github.com/KZen-networks/bulletproofs) Bulletproof Rust implementation for Aggregated Range Proofs over multiple elliptic curves.
 - [rust-secp256k1-zkp](https://github.com/mimblewimble/rust-secp256k1-zkp)  ZKP fork for rust-secp256k1, adds wrappers for range proofs, pedersen commitments, etc
 - [ZoKrates](https://github.com/Zokrates/ZoKrates) A toolbox for zkSNARKs on Ethereum
 - [sonic](https://github.com/ebfull/sonic) a protocol for quickly verifiable, compact zero-knowledge proofs of arbitrary computations.
