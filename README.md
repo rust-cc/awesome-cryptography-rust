@@ -92,6 +92,7 @@
 
 #### Elliptic Curve
 - [BLS12-381](https://github.com/zkcrypto/bls12_381) Implementation of the BLS12-381 pairing-friendly elliptic curve group.
+- [bn](https://github.com/paritytech/bn) Fork from [zcash](https://github.com/zcash-hackworks/bn) Pairing cryptography library in Rust. Barreto-Naehrig (BN).
 - [curve25519-dalek](https://github.com/dalek-cryptography/curve25519-dalek) Group operations on Ristretto and Curve25519..
 - [Jubjub](https://github.com/zkcrypto/jubjub) Implementation of the Jubjub elliptic curve group.
 - [libsecp256k1-rs](https://github.com/sorpaas/libsecp256k1-rs) Pure Rust Implementation of secp256k1. (Wei Tang).
