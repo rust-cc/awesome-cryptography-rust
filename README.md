@@ -17,6 +17,7 @@
 
 ## Cryptography
 ### Collection library
+- [libsm](https://github.com/citahub/libsm) A Rust Library of China's Standards of Encryption Algorithms (SM2/3/4).
 - [mesalink](https://github.com/mesalock-linux/mesalink) MesaLink is a memory safe and OpenSSL-compatible TLS library.
 - [orion](https://github.com/brycx/orion) Usable, easy and safe pure-Rust crypto.
 - [rage](https://github.com/str4d/rage) age implementation. A simple, secure and modern encryption tool with small explicit keys, no config options, and UNIX-style composability.
