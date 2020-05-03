@@ -96,7 +96,9 @@
 - [bn](https://github.com/paritytech/bn) Fork from [zcash](https://github.com/zcash-hackworks/bn) Pairing cryptography library in Rust. Barreto-Naehrig (BN).
 - [curve25519-dalek](https://github.com/dalek-cryptography/curve25519-dalek) Group operations on Ristretto and Curve25519..
 - [Jubjub](https://github.com/zkcrypto/jubjub) Implementation of the Jubjub elliptic curve group.
+- [k256](https://github.com/RustCrypto/elliptic-curves/tree/master/k256) Pure Rust implementation of secp256k1 using complete Weierstrass formulas
 - [libsecp256k1-rs](https://github.com/sorpaas/libsecp256k1-rs) Pure Rust Implementation of secp256k1. (Wei Tang).
+- [p256](https://github.com/RustCrypto/elliptic-curves/tree/master/p256) Pure Rust NIST P-256 implementation using complete Weierstrass formulas
 - [rust-secp256k1](https://github.com/rust-bitcoin/rust-secp256k1) Rust language bindings for Bitcoin secp256k1 library. (rust-bitcoin).
 
 #### Others
