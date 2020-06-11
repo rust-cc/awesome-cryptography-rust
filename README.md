@@ -109,6 +109,7 @@
 - [molasses](https://github.com/trailofbits/molasses) A Rust implementation of the Message Layer Security group messaging protocol.
 - [MLSAG](https://github.com/crypto-rs-go/MLSAG) Multilayered Linkable Spontaneous Anonymous Group, This particular version leverages Ristretto255.
 - [password-hashing](https://github.com/RustCrypto/password-hashing) Password-based key derivation functions. (PBKDF2, scrypt).
+- [opaque-ke](https://github.com/novifinancial/opaque-ke) A pure Rust implementation of the recent [OPAQUE](https://datatracker.ietf.org/doc/draft-krawczyk-cfrg-opaque/) PAKE.
 - [PAKEs](https://github.com/RustCrypto/PAKEs) Password-Authenticated Key Agreement protocols. (SRP, spake2).
 - [rcmixed](https://github.com/rust-cc/rcmixed) Mixed cryptosystem. inspired by PGP.
 - [RustySecrets](https://github.com/SpinResearch/RustySecrets) A Rust implementation of threshold Shamir's secret sharing.
