@@ -77,6 +77,7 @@
 - [OpenZKP](https://github.com/0xProject/OpenZKP) pure Rust implementations of Zero-Knowledge Proof systems.
 - [rust-secp256k1-zkp](https://github.com/mimblewimble/rust-secp256k1-zkp)  ZKP fork for rust-secp256k1, adds wrappers for range proofs, pedersen commitments, etc.
 - [sonic](https://github.com/ebfull/sonic) a protocol for quickly verifiable, compact zero-knowledge proofs of arbitrary computations.
+- [zexe](https://github.com/scipr-lab/zexe) Rust library for decentralized private computation.
 - [ZoKrates](https://github.com/Zokrates/ZoKrates) A toolbox for zkSNARKs on Ethereum.
 
 ### Homomorphic Encryption
@@ -115,7 +116,6 @@
 - [RustySecrets](https://github.com/SpinResearch/RustySecrets) A Rust implementation of threshold Shamir's secret sharing.
 - [schnorrkel](https://github.com/w3f/schnorrkel) Schnorr VRFs and signatures on the Ristretto group.
 - [vdf](https://github.com/poanetwork/vdf) An implementation of Verifiable Delay Functions in Rust.
-- [zexe](https://github.com/scipr-lab/zexe) Rust library for decentralized private computation.
 
 ## Contribute
 Contributions are most welcome.
