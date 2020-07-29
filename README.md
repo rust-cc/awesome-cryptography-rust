@@ -74,9 +74,11 @@
 - [Dusk-Zerocaf](https://github.com/dusk-network/dusk-zerocaf) Fast, efficient and bulletproof-friendly cryptographic operations.
 - [halo (prototype)](https://github.com/ebfull/halo) a zkp system.
 - [marlin](https://github.com/scipr-lab/marlin) A Rust library for the Marlin preprocessing zkSNARK.
+- [merlin](https://github.com/dalek-cryptography/merlin) Composable proof transcripts for public-coin arguments of knowledge.
 - [OpenZKP](https://github.com/0xProject/OpenZKP) pure Rust implementations of Zero-Knowledge Proof systems.
 - [rust-secp256k1-zkp](https://github.com/mimblewimble/rust-secp256k1-zkp)  ZKP fork for rust-secp256k1, adds wrappers for range proofs, pedersen commitments, etc.
 - [sonic](https://github.com/ebfull/sonic) a protocol for quickly verifiable, compact zero-knowledge proofs of arbitrary computations.
+- [Spartan](https://github.com/microsoft/Spartan) High-speed zkSNARKs without trusted setup.
 - [zexe](https://github.com/scipr-lab/zexe) Rust library for decentralized private computation.
 - [ZoKrates](https://github.com/Zokrates/ZoKrates) A toolbox for zkSNARKs on Ethereum.
 
