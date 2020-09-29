@@ -14,6 +14,9 @@
 - [Theorem](#theorem)
   - [Math](#math)
   - [Elliptic Curve](#elliptic-curve)
+- [Attack Defense](#attack-defense)
+- [Others Wait to List](#others)
+
 
 ## Cryptography
 ### Collection library
@@ -26,10 +29,12 @@
 - [rustls](https://github.com/ctz/rustls) A modern TLS library in Rust.
 - [sodiumoxide](https://github.com/sodiumoxide/sodiumoxide) Sodium Oxide: Fast cryptographic library for Rust (bindings to libsodium).
 
+
 ### Symmetric cryptography
 - [aeads](https://github.com/RustCrypto/AEADs): Collection of Authenticated Encryption with Associated Data algorithms written in pure Rust.
 - [block-ciphers](https://github.com/RustCrypto/block-ciphers) Collection of block cipher algorithms written in pure Rust. (AES, Blowfish, DES + 3DES, Kuznyechik, Magma, RC2, Twofish).
 - [stream-ciphers](https://github.com/RustCrypto/stream-ciphers) Collection of stream cipher algorithms.
+
 
 ### Asymmetric Cryptography
 ###### RSA
@@ -38,14 +43,17 @@
 ###### DH
 - [x25519-dalek](https://github.com/dalek-cryptography/x25519-dalek) Fast and efficient ed25519 signing and verification in Rust.
 
+
 ### Hash Function
 - [BLAKE3](https://github.com/BLAKE3-team/BLAKE3) Official implementations of the BLAKE3 cryptographic hash function.
 - [hashes](https://github.com/RustCrypto/hashes) Collection of cryptographic hash functions written in pure Rust. (sha1, sha2, sha3, md4, md5, BLAKE2, RIPEMD-160, RIPEMD-320, GOST94, Grøstl, Streebog, Whirlpool).
 - [tiny-keccak](https://github.com/debris/tiny-keccak) A tiny implementation of SHA-3, SHAKE, Keccak, and sha3sum in rust.
 - [poseidon252](https://github.com/dusk-network/poseidon252) Starkad and Poseidon: New Hash Functions for Zero Knowledge Proof Systems.
 
+
 ### Message Authentication Code
 - [MACs](https://github.com/RustCrypto/MACs) Message authentication code algorithms written in pure Rust. (CMAC, DAA, HMAC, PMAC).
+
 
 ### Digital Signature
 ###### Digital Signature Scheme
@@ -62,8 +70,10 @@
 - [multiproof-rs](https://github.com/gballet/multiproof-rs) A rust implementation of Alexey Akhunov's multiproof algorithm.
 - [threshold_crypto](https://github.com/poanetwork/threshold_crypto) A pairing-based threshold cryptosystem for collaborative decryption and signatures.
 
+
 ### Rseudo Random Number Generator
 - [rand](https://github.com/rust-random/rand) A Rust library for random number generation.
+
 
 ### Zero Knowledge Proofs
 - [bellman](https://github.com/zkcrypto/bellman) zk-SNARK library. (zcash - librustzcash).
@@ -82,10 +92,13 @@
 - [zexe](https://github.com/scipr-lab/zexe) Rust library for decentralized private computation.
 - [ZoKrates](https://github.com/Zokrates/ZoKrates) A toolbox for zkSNARKs on Ethereum.
 
+
 ### Homomorphic Encryption
+
 
 ### Secure Multi-party Computation
 [white-city](https://github.com/KZen-networks/white-city) Network layer for MPC protocols.(include use Tendermint/TokioServer/RocketServer).
+
 
 ### Theorem
 #### Math
@@ -104,7 +117,16 @@
 - [p256](https://github.com/RustCrypto/elliptic-curves/tree/master/p256) Pure Rust NIST P-256 implementation using complete Weierstrass formulas
 - [rust-secp256k1](https://github.com/rust-bitcoin/rust-secp256k1) Rust language bindings for Bitcoin secp256k1 library. (rust-bitcoin).
 
-#### Others
+
+### Attack Defense
+#### Constant time
+- [subtle](https://github.com/dalek-cryptography/subtle) Pure-Rust traits and utilities for constant-time cryptographic implementations.
+- [subtle-encoding](https://github.com/iqlusioninc/crates/tree/develop/subtle-encoding) Hex, Bech32, and Base64 in constant-time(ish).
+#### Zeroing memory
+- [Zeroize](https://github.com/iqlusioninc/crates/tree/develop/zeroize) Securely zero memory while avoiding compiler optimizations.
+
+
+### Others
 - [Double Ratchet](https://github.com/sebastianv89/double-ratchet) Pure Rust implementation of the Double Ratchet algorithm. (communicate securely).
 - [kms-secp256k1](https://github.com/KZen-networks/kms-secp256k1) Multi Party Key Management System (KMS) for Secp256k1 Elliptic curve based digital signatures.
 - [KDFs](https://github.com/RustCrypto/KDFs) Collection of Key Derivation Functions written in pure Rust.
@@ -119,9 +141,11 @@
 - [schnorrkel](https://github.com/w3f/schnorrkel) Schnorr VRFs and signatures on the Ristretto group.
 - [vdf](https://github.com/poanetwork/vdf) An implementation of Verifiable Delay Functions in Rust.
 
+
 ## Contribute
 Contributions are most welcome.
 Not so many constraints, only lowercase > uppercase, symbols > letters.
+
 
 ## License
 [![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
