@@ -95,6 +95,8 @@
 
 ### Homomorphic Encryption
 
+- [Concrete](https://github.com/zama-ai/concrete) Zama's implementation of fully homomorphic encryption - Enables computations over encrypted data.
+
 
 ### Secure Multi-party Computation
 [white-city](https://github.com/KZen-networks/white-city) Network layer for MPC protocols.(include use Tendermint/TokioServer/RocketServer).
