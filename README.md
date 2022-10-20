@@ -123,9 +123,9 @@
 ### Attack Defense
 #### Constant time
 - [subtle](https://github.com/dalek-cryptography/subtle) Pure-Rust traits and utilities for constant-time cryptographic implementations.
-- [subtle-encoding](https://github.com/iqlusioninc/crates/tree/develop/subtle-encoding) Hex, Bech32, and Base64 in constant-time(ish).
+- [subtle-encoding](https://github.com/iqlusioninc/crates/tree/main/subtle-encoding) Hex, Bech32, and Base64 in constant-time(ish).
 #### Zeroing memory
-- [Zeroize](https://github.com/iqlusioninc/crates/tree/develop/zeroize) Securely zero memory while avoiding compiler optimizations.
+- [Zeroize](https://github.com/RustCrypto/utils/tree/master/zeroize) Securely zero memory while avoiding compiler optimizations.
 
 
 ### Others
