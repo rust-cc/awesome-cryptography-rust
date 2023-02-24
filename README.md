@@ -94,8 +94,8 @@
 
 
 ### Homomorphic Encryption
-
 - [Concrete](https://github.com/zama-ai/concrete) Zama's implementation of fully homomorphic encryption - Enables computations over encrypted data.
+- [TFHE-rs](https://github.com/zama-ai/tfhe-rs) Pure Rust implementation of the TFHE scheme for boolean and integers FHE arithmetics.
 
 
 ### Secure Multi-party Computation
