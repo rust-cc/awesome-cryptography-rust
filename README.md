@@ -142,6 +142,7 @@
 - [RustySecrets](https://github.com/SpinResearch/RustySecrets) A Rust implementation of threshold Shamir's secret sharing.
 - [schnorrkel](https://github.com/w3f/schnorrkel) Schnorr VRFs and signatures on the Ristretto group.
 - [vdf](https://github.com/poanetwork/vdf) An implementation of Verifiable Delay Functions in Rust.
+- [Ronkathon](https://github.com/pluto/ronkathon) A number of mathematically transparent well documented implementations of many cryptographic primitives including elliptic curve pairings, KZG proofs, hashes, symmetric, and asymmetric primitive
 
 
 ## Contribute
