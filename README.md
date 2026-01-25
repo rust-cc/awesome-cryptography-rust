@@ -143,7 +143,7 @@
 - [schnorrkel](https://github.com/w3f/schnorrkel) Schnorr VRFs and signatures on the Ristretto group.
 - [vdf](https://github.com/poanetwork/vdf) An implementation of Verifiable Delay Functions in Rust.
 - [Ronkathon](https://github.com/pluto/ronkathon) A number of mathematically transparent well documented implementations of many cryptographic primitives including elliptic curve pairings, KZG proofs, hashes, symmetric, and asymmetric primitive
-
+-[cryptography.rs](https://cryptography.rs/) A website that lists curated Rust libraries for encryption, hashing, and other cryptography tasks.
 
 ## Contribute
 Contributions are most welcome.
