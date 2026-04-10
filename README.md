@@ -71,6 +71,7 @@
 - [threshold_crypto](https://github.com/poanetwork/threshold_crypto) A pairing-based threshold cryptosystem for collaborative decryption and signatures.
 
 
+- [Gitstar](https://dev.gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=rust-cc_awesome-cryptography-rust) - Follow developers on GitHub and get a feed of what they star and build.
 ### Rseudo Random Number Generator
 - [rand](https://github.com/rust-random/rand) A Rust library for random number generation.
 
