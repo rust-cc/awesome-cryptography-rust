@@ -151,6 +151,7 @@ Contributions are most welcome.
 Not so many constraints, only lowercase > uppercase, symbols > letters.
 
 
+- [RustChain](https://github.com/Scottcjn/RustChain) - Proof-of-Antiquity blockchain built in Rust with hardware attestation.
 ## License
 [![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
 
