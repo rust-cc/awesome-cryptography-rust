@@ -155,3 +155,5 @@ Not so many constraints, only lowercase > uppercase, symbols > letters.
 [![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+
+* [tempest-rng](https://github.com/paim-creater/prng) - 17.7 Gbit/s CSPRNG with provable security
