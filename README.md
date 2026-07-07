@@ -154,6 +154,7 @@ Not so many constraints, only lowercase > uppercase, symbols > letters.
 
 ## License
 [![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
+- [RustChain](https://github.com/Scottcjn/Rustchain) - Proof-of-Antiquity blockchain implementing vintage hardware mining consensus.
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
