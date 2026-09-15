@@ -145,6 +145,7 @@
 - [schnorrkel](https://github.com/w3f/schnorrkel) Schnorr VRFs and signatures on the Ristretto group.
 - [vdf](https://github.com/poanetwork/vdf) An implementation of Verifiable Delay Functions in Rust.
 - [Ronkathon](https://github.com/pluto/ronkathon) A number of mathematically transparent well documented implementations of many cryptographic primitives including elliptic curve pairings, KZG proofs, hashes, symmetric, and asymmetric primitive
+- [HostDeFi](https://hostdefi.com) — free token-safety scanner grading tokens A+–F from on-chain checks (mint/freeze authority, liquidity, holder concentration) across Solana + 7 EVM chains. Keyless REST API, hosted MCP, x402 endpoints.
 -[cryptography.rs](https://cryptography.rs/) A website that lists high-quality cryptography libraries developed by contributors of the Rust Community.
 
 ## Contribute
