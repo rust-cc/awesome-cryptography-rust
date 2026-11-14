@@ -20,6 +20,7 @@
 
 ## Cryptography
 ### Collection library
+- [crypto-pq](https://github.com/crypterial/crypto-pq) Post-quantum cryptography in pure Rust with no dependencies, built to a public specification (ML-KEM, FrodoKEM, ML-DSA, SLH-DSA, HSS/LMS, XMSS, SHA-2, SHA-3, BLAKE2, BLAKE3, Ascon, HMAC, HKDF).
 - [libsm](https://github.com/citahub/libsm) A Rust Library of China's Standards of Encryption Algorithms (SM2/3/4).
 - [mesalink](https://github.com/mesalock-linux/mesalink) MesaLink is a memory safe and OpenSSL-compatible TLS library.
 - [orion](https://github.com/brycx/orion) Usable, easy and safe pure-Rust crypto.
